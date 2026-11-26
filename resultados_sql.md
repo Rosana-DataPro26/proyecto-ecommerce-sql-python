@@ -101,4 +101,4 @@ FROM resumen_clientes
 ORDER BY gasto_acumulado DESC;
 ```
 
-> **Resultado:** Se identificaron **24 perfiles de clientes únicos**, clasificándolos automáticamente en segmentos **VIP** ($\ge\$1,000$), **Frecuente** ($\ge\$500$) y **Ocasional** para orientar campañas de fidelización.
+> **Resultado:** Se identificaron **24 perfiles de clientes únicos**, clasificándolos automáticamente en segmentos **VIP** ($1,000 o más), **Frecuente** ($500 a $999) y **Ocasional** (menos de $500)
