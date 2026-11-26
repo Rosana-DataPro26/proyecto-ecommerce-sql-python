@@ -18,4 +18,4 @@ Como cierre del flujo End-to-End (limpieza y automatización en **Python**, mode
 * **Liderazgo de Producto:** El **Producto B** lidera ampliamente la facturación ($85 mil), superando casi al doble al **Producto A** ($47 mil).
 * **Estacionalidad Trimestral:** Se observa un pico máximo de ventas en el **segundo trimestre (abril)** seguido de una caída marcada hacia el cierre del año, detectando una oportunidad concreta de campañas comerciales para Q3–Q4.
 * **Distribución Regional Equilibrada:** **LATAM (30,35%)** encabeza los ingresos, seguida de manera pareja por **Asia (23,75%)**, **Europa (22,95%)** y **Norteamérica (22,94%)**.
-* **Consultas SQL de Negocio:** Podés revisar las queries de KPIs, geografía y segmentación de clientes directamente en [`consultas.sql`](resultados_sql.md).
+* **Consultas SQL de Negocio:** Podés revisar las queries de KPIs, geografía y segmentación de clientes directamente en [`resultados_sql.md`](./resultados_sql.md).
